@@ -1,16 +1,9 @@
-# posturx
+## 📱 VOLDON – Volunteer Donation Platform
 
-A new Flutter project.
+<p align="center">
+  <img src="https://github.com/Mounees-321/hackaathon_samhita/blob/main/Screenshot%202025-05-05%20095743.png?raw=true" width="500"/>
+</p>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+VOLDON is a platform that connects donors, volunteers,
+and receivers to donate and deliver food and non-food items
+like books, clothes, and essentials.
